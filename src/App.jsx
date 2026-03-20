@@ -1,5 +1,6 @@
 import "./App.css";
 // eslint-disable-next-line import/extensions
+// Learning React
 import logo from "./logo.svg";
 
 const App = () => (
